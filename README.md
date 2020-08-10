@@ -12,7 +12,8 @@ Detecting tennis balls using OpenCV using various methods
 #  Contour and Solidity
    Detection by comparing the areas of the contour and the hough circle. 
    Similar to aspectratio but also checks solidity.
-   
+##MultiCamThreading
+   Scripts which obtains the feed of two cameras simultaneoulsy through concept of multithreading in python
 
   
  
